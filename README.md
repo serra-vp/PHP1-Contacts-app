@@ -11,6 +11,11 @@ Create a simple application with these specifications:
 
 You can use [mysqli](http://programmerblog.net/php-mysqli-tutorial-for-beginners/) to connect database for the authentication and registration process.
 
+## Pages
+
+* Contacts
+
+* Login/Registration
 
 ## Specifications and Features:
 
