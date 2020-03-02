@@ -11,6 +11,7 @@ Create a simple application with these specifications:
 
 You can use [mysqli](http://programmerblog.net/php-mysqli-tutorial-for-beginners/) to connect database for the authentication and registration process.
 
+
 ## Pages
 
 * Contacts
@@ -23,7 +24,7 @@ You can use [mysqli](http://programmerblog.net/php-mysqli-tutorial-for-beginners
 
 * An application that can `display`, `store` and `write` these collections: `firstname`, `middle initial` , `lastname` , `address` and `contact number` using php `Files I/O`.
 
-* An application that can display contact list in an `HTML table`.
+* An application that can display contact list in an `HTML/CSS table`.
 
 * An application than can `remove a contact from a list`.
 
