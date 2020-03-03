@@ -22,7 +22,7 @@ You can use [mysqli](http://programmerblog.net/php-mysqli-tutorial-for-beginners
 
 * An application that can `login` and `logout` using php super globals.
 
-* An application that can `display`, `store` and `write` these collections: `firstname`, `middle initial` , `lastname` , `address` and `contact number` using php `Files I/O`.
+* An application that can `write` and `store` these collections: `firstname`, `middle initial` , `lastname` , `address` and `contact number` using php `Files I/O`.
 
 * An application that can display contact list in an `HTML/CSS table`.
 
