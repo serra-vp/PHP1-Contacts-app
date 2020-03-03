@@ -4,7 +4,7 @@ Create a simple application with these specifications:
 
 ## Designs and Layout:
 
-* Simple HTML/CSS3 
+* Bootstrap or any CSS Framework you prefer to use
 
 
 ## Database:
