@@ -14,7 +14,7 @@ You can use [mysqli](http://programmerblog.net/php-mysqli-tutorial-for-beginners
 
 ## Pages
 
-* Contacts
+* Dashboard - Contacts
 
 * Login/Registration
 
