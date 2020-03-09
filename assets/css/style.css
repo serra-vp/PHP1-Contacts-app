@@ -1,0 +1,52 @@
+*{
+  font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+}
+
+html, body{
+  font-size: 16px;
+  margin: auto;
+  padding: 0;
+  height: 100%;
+}
+.form-div{
+  height: 50vh;
+  width: 50%; 
+  display: flex;
+  margin: 10% auto; 
+}
+.login-form{
+  margin: auto;
+  width: 55%;
+}
+
+.register-link{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: red;
+  font-size: 0.9rem;
+  margin: 5px auto;
+}
+
+.contact-table-div{
+  width: 75%;
+  margin: 4% auto auto;
+}
+
+.btn-add-abs{
+  background: url("https://img.icons8.com/carbon-copy/100/000000/add.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 70px;
+  width: 70px;
+  border: none;
+  border-radius: 50%;
+  position:fixed;
+	bottom:40px;
+	right:40px;
+}
+
+textarea{
+  resize: none;
+}
