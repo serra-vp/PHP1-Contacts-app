@@ -1,4 +1,7 @@
-<?php include 'assets/scripts/connection.php'; ?>
+<?php 
+  include 'assets/scripts/connection.php'; 
+  if(!empty($_SESSION['account_ID'])) header("Location: dashboard.php");
+?>
 <!DOCTYPE html>
 <html lang="en">  
 <head>

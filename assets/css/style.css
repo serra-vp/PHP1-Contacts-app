@@ -14,6 +14,7 @@ html, body{
   width: 50%; 
   display: flex;
   margin: 10% auto; 
+  flex-direction: column;
 }
 .login-form{
   margin: auto;
@@ -35,18 +36,40 @@ html, body{
 }
 
 .btn-add-abs{
-  background: url("https://img.icons8.com/carbon-copy/100/000000/add.png");
-  background-repeat: no-repeat;
-  background-size:cover;
-  height: 70px;
-  width: 70px;
-  border: none;
-  border-radius: 50%;
   position:fixed;
+	width:60px;
+	height:60px;
 	bottom:40px;
 	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  box-shadow: 2px 2px 3px #999;
+  outline: none;
+  border: none;
+}
+
+.btn-add-abs:hover{
+  background-color:rgb(6, 138, 105);
 }
 
 textarea{
   resize: none;
+}
+
+.remove-btn{
+  display: block !important; 
+  margin: auto !important;
+}
+
+.alert-div{
+  display: none;
+  width: 75%;
+  height: auto;
+  margin: auto auto 0;
+}
+
+.alerta{
+  margin: auto;
 }

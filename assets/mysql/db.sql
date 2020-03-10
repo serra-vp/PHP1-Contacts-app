@@ -14,5 +14,5 @@ CREATE TABLE account_details(
   CONSTRAINT ad_account_ID_fk FOREIGN KEY(ad_account_ID) REFERENCES account(account_ID) ON DELETE CASCADE
 ) ENGINE = INNODB;
 
-INSERT INTO account(account_username, account_password) VALUES ('serravp', md5('asdasd123'));
-INSERT INTO account_details(ad_account_ID,ad_firstname, ad_lastname) VALUES (1,'Vincent Paul', 'Serra');
+INSERT INTO account(account_username, account_password) VALUES ('serravp', md5('123')),('admin', md5('admin');
+INSERT INTO account_details(ad_account_ID,ad_firstname, ad_lastname) VALUES (1,'Vincent Paul', 'Serra'),(2,'Firstname', 'Lastname');
