@@ -45,8 +45,8 @@
           <th scope="col">Firstname</th>
           <th scope="col">Middle Initial</th>
           <th scope="col">Lastname</th>
-          <th scope="col">Address</th>
           <th scope="col">Contact Number</th>
+          <th scope="col">Address</th>
           <th scope="col"></th>
         </tr>
       </thead>
